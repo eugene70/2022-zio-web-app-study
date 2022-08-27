@@ -15,3 +15,4 @@ object App extends ZIOAppDefault {
     prog
   }
 }
+// https://zio.dev/reference/test/services/console/
